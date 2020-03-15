@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google }"
+}
