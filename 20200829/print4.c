@@ -7,7 +7,7 @@
 // 提示输入错误
 #include <stdio.h>
 // http://blog.hylstudio.cn/archives/686
-int main(int argc, char const *argv[]) {
+int main() {
   char input = '*';
   int lineNum = 1;
   // input character

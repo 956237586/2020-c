@@ -7,7 +7,7 @@
 // |***********|
 #include <stdio.h>
 // http://blog.hylstudio.cn/archives/686
-int main(int argc, char const *argv[]) {
+int main() {
   printf("|***********|\n");
   printf("|***********|\n");
   printf("|***********|\n");

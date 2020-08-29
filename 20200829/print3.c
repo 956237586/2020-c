@@ -10,7 +10,7 @@
 // | a a a a a |
 #include <stdio.h>
 // http://blog.hylstudio.cn/archives/686
-int main(int argc, char const *argv[]) {
+int main() {
   char input = '*';
   scanf("%c", &input);
   printf("|%c %c %c %c %c %c|\n", input, input, input, input, input, input);

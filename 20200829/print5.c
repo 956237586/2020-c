@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 // http://blog.hylstudio.cn/archives/686
-int main(int argc, char const *argv[]) {
+int main() {
   char input = '*';
   int charPerLine = 6;
   int lineNum = 1;
